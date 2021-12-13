@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=ahrooran-r&layout=compact&theme=radical" />
 </a>
 
-<p align=center>                           
+<p align=left>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=ahrooran-r/ahrooran-r" alt="Visitors">                     
 </p>
 
